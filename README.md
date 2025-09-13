@@ -1,9 +1,19 @@
 # 💫 About Me:
-Student<br>Learning  DSA,CP<br>Core: Networking,OS
+👋 Hi, I’m Riyaz!</br>
+🎓 Final-year Computer Science student at KL University (2021–2025).</br>
+💻 Interested in software development, data structures & algorithms, and problem-solving.</br>
+🚀 Projects: University Letter Management System, Student Management System.</br>
+📚 Currently practicing DSA on LeetCode and exploring full-stack development.</br>
+
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-mohammed-riyaz/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-mohammed-riyaz/)</br>
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](riyazshaik5027@gmail.com)</br>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Riyaz50-_/)</br>
+
+
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
